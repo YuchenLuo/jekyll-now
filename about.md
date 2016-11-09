@@ -11,4 +11,3 @@ This is my personal blog about coding, technology, and various projects I wish t
 
 ### Contact me
 
-Don't worry about it.
